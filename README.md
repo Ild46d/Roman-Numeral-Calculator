@@ -1,4 +1,3 @@
-# Roman-Numeral-Calculator
 
 # Roman Numeral Calculator  
 A simple Python program that performs math operations using Roman numerals (1–3999).  
