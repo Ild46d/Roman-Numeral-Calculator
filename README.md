@@ -36,13 +36,13 @@ Make sure you have **Python 3** installed.
 Run the file in your terminal:
 
 # Exemple of input 
-Enter first Roman number: X
-Enter second Roman number: IV
-Operator: *
+ Enter first Roman number: X
+ Enter second Roman number: IV
+ Operator: *
 
 # Exemple of output
-Digital result: 40
-Roman result: XL
+ Digital result: 40
+ Roman result: XL
 
 
 ```bash
